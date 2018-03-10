@@ -22,7 +22,7 @@ using NinjaTrader.NinjaScript.Indicators;
 using NinjaTrader.NinjaScript.DrawingTools;
 #endregion
 
-//This namespace holds Strategies in this folder and is required. Do not change it. 
+// NinjaTrader 8 script by InvestDataSystems ; https://ichimoku-expert.blogspot.com
 namespace NinjaTrader.NinjaScript.Strategies
 {	
 	public class GLStrategy : Strategy
