@@ -31,8 +31,8 @@ namespace NinjaTrader.NinjaScript.Strategies
 		{
 			if (State == State.SetDefaults)
 			{
-				Description									= @"GLStrategy";
-				Name										= "GLStrategy";
+				Description									= @"InvestDataSystems";
+				Name										= "InvestDataSystems";
 				Calculate									= Calculate.OnEachTick;
 				EntriesPerDirection							= 1;
 				EntryHandling								= EntryHandling.AllEntries;
